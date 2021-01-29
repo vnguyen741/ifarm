@@ -1,5 +1,5 @@
 {
-  "homepage": "http://vnguyen741.github.io/ifarm",
+  "homepage": "https://vnguyen741.github.io/ifarm/",
   "name": "react-website-smooth-scroll-v1",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "styled-components": "^5.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
